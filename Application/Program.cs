@@ -6,7 +6,7 @@ namespace Application
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Pharaoh demands a new pyramid!");
         }
     }
 }
